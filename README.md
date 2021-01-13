@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, my friend <𝚌𝚘𝚍𝚎𝚛<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! 
 <br>
 <a href="https://www.linkedin.com/in/beatrizodorcik">
-  <img align="center" alt="BeatrizOdorcik @LinkedIN" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="BeatrizOdorcik @LinkedIN" width="22px" color='#FFFFFF' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
   <a href="mailto:beaodorcik@gmail.com">
   <img align="center" alt="BeatrizOdorcik @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
