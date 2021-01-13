@@ -53,12 +53,11 @@ Here are some ideas to get you started:
 - &nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
 
 
-<hr>
-<p align="center">
-&nbsp;<i><b>GitHub Stats...</b></i><br>
-<img src="https://github-readme-stats.vercel.app/api?username=beatrizodorcik&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
-  <br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizodorcik&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+<hr>	<hr>
+<p align="center">	<p align="center">
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>	<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
+<img src="https://github-readme-stats.vercel.app/api?username=beatrizodorcik&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>	<img src="https://github-readme-stats.vercel.app/api?username=beatrizodorcik&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizodorcik&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizodorcik&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 </p>
 
 <hr>
