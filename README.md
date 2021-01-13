@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, my friend <𝚌𝚘𝚍𝚎𝚛<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! 
 <br>
 <a href="https://www.linkedin.com/in/beatrizodorcik">
-  <img align="center" alt="BeatrizOdorcik @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="BeatrizOdorcik @LinkedIN" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
   <a href="mailto:beaodorcik@gmail.com">
   <img align="center" alt="BeatrizOdorcik @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <hr>
 <p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
+&nbsp;<i><b>GitHub Stats...</b></i><br>
 <img src="https://github-readme-stats.vercel.app/api?username=beatrizodorcik&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizodorcik&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 </p>
