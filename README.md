@@ -54,6 +54,9 @@ Here are some ideas to get you started:
 
 
 <hr>	<hr>
+<p>
+<p>
+<p>
 <p align="center">	<p align="center">
 &nbsp;<i><b>GitHub Status...</b></i><br>	
 <img src="https://github-readme-stats.vercel.app/api?username=beatrizodorcik&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
