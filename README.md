@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/beatrizodorcik">
   <img align="center" alt="BeatrizOdorcik @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizodorcik/)](https://www.linkedin.com/in/beatrizodorcik/)
+
 
 </h1>
 
