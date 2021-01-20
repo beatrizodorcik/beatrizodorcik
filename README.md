@@ -48,9 +48,6 @@ Here are some ideas to get you started:
 
 - &nbsp;Pronouns: ***She/Her*** or ***CoderGirl***😉
 - &nbsp;I’m currently working on Competitive Programming...
-- &nbsp;I’m looking to collaborate in an Open - Source Project `(newbie)` 🤝...
-- &nbsp;I’m looking for help with Cyber Security 😭!
-- &nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
 
 
 <hr>	<hr>
