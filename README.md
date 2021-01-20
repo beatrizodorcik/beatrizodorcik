@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 <p>
 <p align="center">	<p align="center">
 &nbsp;<i><b>GitHub Status...</b></i><br>	
-<img src="https://github-readme-stats.vercel.app/api?username=beatrizodorcik&count_private=true&show_icons=true&theme=highcontrast" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizodorcik&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">	
+<img src="https://github-readme-stats.vercel.app/api?username=beatrizodorcik&count_private=true&show_icons=true&theme=cobalt" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizodorcik&show_icons=true&layout=compact&theme=dracula" alt="Most Used Languages">	
 </p>
 
 <hr>
