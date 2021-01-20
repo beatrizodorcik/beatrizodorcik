@@ -42,13 +42,16 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p> -->
 
-<img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
+<img align="right" width=200px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
 
 > &nbsp;***Talking about Personal Stuffs:***
 
 - &nbsp;Pronouns: ***She/Her*** or ***CoderGirl***😉
 - &nbsp;I’m currently working on Competitive Programming...
-
+<p>
+<p>
+<p>
+<br>
 
 <hr>	<hr>
 <p>
