@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 > &nbsp;***Talking about Personal Stuffs:***
 
 - &nbsp;Pronouns: ***She/Her*** or ***CoderGirl***😉
-- &nbsp;I’m currently working on Competitive Programming...
+- &nbsp;I’m currently working on Venturus <3
 <p>
 <p>
 <p>
