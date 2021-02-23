@@ -48,8 +48,9 @@ Here are some ideas to get you started:
 
 > &nbsp;***Talking about Personal Stuffs:***
 
-- &nbsp;Pronouns: ***She/Her*** or ***CoderGirl***😉
-- &nbsp;I’m currently working on Venturus <3
+- &nbsp;Engenheira Agronônoma, Gestora de TI, pós-graduanda em Segurança da Informação e Análise de dados. 😉
+- - &nbsp;(gosto de ser multicarreiras!)
+
 <p>
 <p>
 <p>
